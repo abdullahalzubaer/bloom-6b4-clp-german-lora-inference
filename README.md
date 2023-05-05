@@ -4,4 +4,4 @@
 
 LoRA adapter and some notes
 
-https://huggingface.co/abdullahalzubaer/bloom-6b4-clp-german-instruct-lora-peft/settings
+https://huggingface.co/abdullahalzubaer/bloom-6b4-clp-german-instruct-lora-peft
